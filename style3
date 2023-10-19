@@ -5,8 +5,8 @@
     padding: 0;
 }
 
-/*   alt CSS til Headeren */
 
+/*   alt CSS til Headeren */
 .header {
 
     color: #fff;
@@ -45,67 +45,57 @@ a {
 
 
 .main {
-    height: 38rem;
+    height: 58rem;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column; 
     
 }
-.pile{
-display: flex;
-justify-content: center;
-align-items: center;
-width: 19%;
+#mønster2{
+    width: 200px;
+    position: absolute;
+    right: 160px;
+
+}
+#mønster{
+width: 200px;
 position: absolute;
-
-
-
-
-
+left: 160px;
 }
-.round-box {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    background-color: #00ccff;
-    margin: 35px; 
-}
-
-.big-box {
-    width: 200px; 
-    height: 200px; 
-    font-size: 24px;
-    line-height: 175px;
+.article {
     text-align: center;
-    font-size: 10px;
-    color: #fff;
 }
 
-.row {
-    display: flex;
-    justify-content: center;
-}
-.round-box p {
-    text-align: center; 
-    margin: 10px; 
-    padding: 15px; 
-    line-height: 20px;
-    font-size: 18px; 
-    color: white; 
+.article h1 {
+text-align: left;
+    font-size: 22px;
 }
 
-#tekst1 {
-    text-align: center; 
-     
-    margin-left: 10px;
-    padding: 13px;
-    line-height: 80px;
-    font-size: 19px; 
-    color: white; 
 
+.article h2, 
+.article p {
+
+    text-align: left; 
+    max-width: 600px; 
+    margin: 0 auto; 
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+#tekst1{
+    text-align: left; 
+    max-width: 600px; 
+    margin: 0 auto; 
+    margin-bottom: 15px;
+    margin-right: 200px;
+    font-size: 17px;
+    color: black;
+}
+
+#tekst1:hover {
+    color:#ff9c00 ; 
+}
 /*   alt CSS til Footer*/
-}
 .footer {
     display: flex;
     flex-direction: row;
