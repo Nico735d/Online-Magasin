@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/LOGO.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/LOGO.ico" type="image/x-icon">
+    <title>Your Future</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <header class="header">
+    </header>
+    <nav>
+        <section class="menu">
+            <div class="dropdown">
+                <a href="#">Job og Karriere</a>
+                <div class="dropdown-content">
+                    <a href="index5.html">Multimediedesigner i Aarhus</a>
+                    <a href="index3.html">Jobmuligheder</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Videregående uddannelser</a>
+                <div class="dropdown-content">
+                    <a href="index4.html">Læse videre som Multimediedesigner</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Efteruddannelser</a>
+                <div class="dropdown-content">
+                    <a href="#">Kurser</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Vejledning</a>
+                <div class="dropdown-content">
+                    <a href="#">Praktik</a>
+                    <a href="#">Studievalg</a>
+                    <a href="#">Adgangskrav</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Kontakt</a>
+                <div class="dropdown-content">
+                    <a href="#">Om os</a>
+                </div>
+            </div>
+
+        </section>
+    </nav>
+    <main class="main">
+        <article class="article">
+            <h1>Udforskning af Kreativ Horisont </h1>
+            <p>Multimediedesign er et dynamisk felt, hvor teknologi og kreativitet smelter sammen. For at
+                multimediedesignere kan følge med branchens hastige udvikling, er videreuddannelse afgørende. Her er
+                nogle nøgletrin:</p>
+            <h2> Specialisering og Avancerede Kurser:</h2>
+            <p>Specialiser dig inden for områder som UI/UX-design og 3D-animering gennem avancerede online eller lokale
+                kurser. Dette forfiner dine færdigheder og introducerer nye teknikker.</p>
+            <h2>Masteruddannelser og Diplomkurser:</h2>
+            <p>Overvej en masteruddannelse eller et diplomkursus inden for multimediedesign eller relaterede områder.
+                Disse programmer dykker dybere ned i teori og avancerede teknikker, og du arbejder på komplekse
+                projekter under eksperternes vejledning.</p>
+            <h2>Certificeringer:</h2>
+            <p>Skaf certificeringer fra anerkendte organisationer som Adobe og Autodesk. Disse viser din ekspertise
+                inden for bestemte værktøjer og teknologier, hvilket er værdifuldt for specialisering i
+                softwareapplikationer eller teknikker.</p>
+            <h2>Onlinekurser og Workshops:</h2>
+            <p>Deltag i onlinekurser og workshops fra eksperter verden over. Disse kurser tilpasses dine behov og giver
+                en fleksibel læringsoplevelse.</p>
+            <h2>Kreative Communities og Networking:</h2>
+            <p>Engager dig i online og lokale kreative fællesskaber, hvor du kan lære af andre og finde potentielle
+                samarbejdspartnere og kunder.</p>
+            <h2>Eksperimentation og Personlige Projekter:</h2>
+            <p>Arbejd på personlige projekter for at eksperimentere med nye ideer og teknikker. Dette udfordrer din
+                kreativitet og hjælper dig med at finde din unikke stemme som multimediedesigner.</p>
+            <p>Det kan også være, at du bare gerne vil igang med at arbejde. For at vide hvilke muligheder du har som
+                multimediedesigner</p>
+            <a id="tekst1" href="index3.html">Læs mere: Tryk her</a>
+            <p>Eller vil du læse mere om hvordan det er at være Multimediedesigner i Aarhus,<a id="tekst1"
+                    href="index5.html"> Tryk her</a></p>
+        </article>
+        <img id="mønster" src="img/mønstre1.png" alt="Mønstre">
+        <img id="mønster2" src="img/mønster2.png" alt="Mønstre">
+    </main>
+
+    <footer class="footer">
+        <section>
+            <h4>YOUR FUTURE</h4>
+            <p class="footer_kontakt">
+                KONTAKT <br>
+
+                TELEFON 50 52 45 89 <br>
+                Nicolaj.nip@hotmail.com
+            </p>
+        </section>
+
+        <section class="footer_section">
+            <h4>FOLLOW US</h4>
+            <div class="billeder">
+                <a href="#"> <img src="img/twitter.png" alt="twitter-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/Instagram.png" alt="instagram-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/facebook.png" alt="facebook-icon" class="some_image"> </a>
+            </div>
+        </section>
+    </footer>
+</body>
+
+</html>
