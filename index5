@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/LOGO.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/LOGO.ico" type="image/x-icon">
+    <title>Your Future</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header class="header">
+    </header>
+    <nav>
+        <section class="menu">
+            <div class="dropdown">
+                <a href="#">Job og Karriere</a>
+                <div class="dropdown-content">
+                    <a href="index5.html">Multimediedesigner i Aarhus</a>
+                    <a href="index3.html">Jobmuligheder</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Videregående uddannelser</a>
+                <div class="dropdown-content">
+                    <a href="index4.html">Læse videre som Multimediedesigner</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Efteruddannelser</a>
+                <div class="dropdown-content">
+                    <a href="#">Kurser</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Vejledning</a>
+                <div class="dropdown-content">
+                    <a href="#">Praktik</a>
+                    <a href="#">Studievalg</a>
+                    <a href="#">Adgangskrav</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Kontakt</a>
+                <div class="dropdown-content">
+                    <a href="#">Om os</a>
+                </div>
+            </div>
+
+        </section>
+    </nav>
+    <main class="main">
+        <article class="article">
+            <h1>Multimediedesigner i Aarhus </h1>
+            <p>Aarhus, Danmarks pulserende kultur- og uddannelsescenter, omfavner multimediedesignere som nøgleaktører i
+                byens blomstrende kreative økosystem. Den digitale revolution har fundet en naturlig legeplads i Aarhus,
+                og multimediedesignere spiller en vital rolle i byens transformation til en moderne metropol.</p>
+
+            <p> Multimediedesignere i Aarhus er ikke blot skabende kunstnere; de er fortolkere af byens ånd. Med deres
+                dygtighed i alt fra grafisk design til interaktivt indhold, hjælper de lokale virksomheder med at
+                udtrykke deres unikke identitet. Fra caféer til tech-startups stræber disse designere efter at skabe
+                visuelle oplevelser, der fordyber byens indbyggere i en fusion af æstetik og teknologi.</p>
+
+            <p> Aarhus' kulturelle mangfoldighed blomstrer i multimediedesignernes hænder. De er arkitekterne bag
+                digitale udstillinger på byens museer og skaber innovative projekter til de mange kunst- og
+                musikfestivaler. Deres værker udfordrer normerne og inspirerer til dialog og forståelse på tværs af
+                kulturer.</p>
+
+            <p> Den lokale iværksætterånd er også næret af multimediedesignerne. Mange af dem har grundlagt deres egne
+                studier og teknologivirksomheder, hvilket bidrager til Aarhus' omdømme som et kreativt epicenter. Deres
+                innovative tilgang til digitale løsninger har ikke kun gjort dem til lokale helte, men også til
+                internationale visionærer.</p>
+
+            <p> Multimediedesignere i Aarhus er ikke kun designere; de er historiefortællere og innovationspionerer. De
+                skaber en levende symbiose mellem fortidens arv og fremtidens teknologi. I deres hænder blomstrer
+                kreativiteten, og Aarhus bliver et lærred, hvor den digitale fremtid maler sin skønhed. Derfor er
+                multimediedesignere ikke bare en del af Aarhus; de er hjertet i byens kreative puls.</p>
+            <p>Hvis det lyder spændende at være multimediedesigner i Aarhus, så kan du lidt om hvilke jobmuligheder du
+                har.</p>
+            <a id="tekst1" href="index3.html">Læs mere: Tryk her</a>
+            <p>Eller vil du læse mere om hvordan man videreuddanne sig, hvis du ikke er helt klar til arbejde<a
+                    id="tekst1" href="index4.html"> Tryk her</a></p>
+        </article>
+        <img id="mønster" src="img/mønstre1.png" alt="Mønstre">
+        <img id="mønster2" src="img/mønster2.png" alt="Mønstre">
+    </main>
+
+    <footer class="footer">
+        <section>
+            <h4>YOUR FUTURE</h4>
+            <p class="footer_kontakt">
+                KONTAKT <br>
+
+                TELEFON 50 52 45 89 <br>
+                Nicolaj.nip@hotmail.com
+            </p>
+        </section>
+
+        <section class="footer_section">
+            <h4>FOLLOW US</h4>
+            <div class="billeder">
+                <a href="#"> <img src="img/twitter.png" alt="twitter-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/Instagram.png" alt="instagram-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/facebook.png" alt="facebook-icon" class="some_image"> </a>
+            </div>
+        </section>
+
+    </footer>
+</body>
+
+</html>
