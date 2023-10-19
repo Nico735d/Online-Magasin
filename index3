@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/LOGO.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/LOGO.ico" type="image/x-icon">
+    <title>Your Future</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <header class="header">
+    </header>
+    <nav>
+        <section class="menu">
+            <div class="dropdown">
+                <a href="#">Job og Karriere</a>
+                <div class="dropdown-content">
+                    <a href="index5.html">Multimediedesigner i Aarhus</a>
+                    <a href="index3.html">Jobmuligheder</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Videregående uddannelser</a>
+                <div class="dropdown-content">
+                    <a href="index4.html">Læse videre som Multimediedesigner</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Efteruddannelser</a>
+                <div class="dropdown-content">
+                    <a href="#">Kurser</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Vejledning</a>
+                <div class="dropdown-content">
+                    <a href="#">Praktik</a>
+                    <a href="#">Studievalg</a>
+                    <a href="#">Adgangskrav</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Kontakt</a>
+                <div class="dropdown-content">
+                    <a href="#">Om os</a>
+                </div>
+            </div>
+
+        </section>
+    </nav>
+    <main class="main">
+        <article class="article">
+            <h1>Multimediedesigner: Fra klasselokale til karriere. </h1>
+            <p>Efter blot 2 års uddannelse, som multimediedesigner,
+                så du faktisk allerede klar til den virkelige verden.
+                Der er mange job muligheder som multimediedesigner
+                allerede efter de 2 år på uddannelsen. </p>
+            <h2>Grafisk designer:</h2>
+            <p>Med en god forståelse for designprincipper,
+                så kan multimediedesigner træde ind i verden som en grafisk designer.
+                Hvis du virkelig gerne vil have dit "blotøje" i brug,
+                så er grafisk designer et job, som indebærer alt fra at skabe unikke logoer
+                til at designe flotte illustrerende brochurer og digitale annoncer.
+                Som grafisk designer får du brugt din kreative hjerne til,
+                at give virksomheder et visuelt løft.</p>
+            <h2>UX'er eller UI'er: </h2>
+            <p>Brug din forståelse af brugere til at hjælpe virksomheder med at skabe brugeroverflade, som er intuitive
+                og behagelige at interagere med i den digitale verden. Da du som multimediedesigner er specialiseret
+                inde for UX/UI- design, så kan du bidrage med at gøre både apps og hjemmesider så brugervenlige som
+                muligt, og hjælper den digitale verden i at forbedre sig fra dag til dag.</p>
+            <h2>Social media content creation: </h2>
+            <p>Sociale medier fylder meget i alle vores hverdage, og endnu mere i den daglig basis, som
+                multimediedesigner. Derfor kan du også vælge, at arbejde med sociale medier efter din uddannelse. <br>
+                Virksomheder søger også gerne multimediedesigner til at være deres content manager og hjælpe dem med at
+                virke mere engagerende på de sociale platforme. Med din ekspertise i film, medier, billeder osv. Kan du
+                blive den perfekte kandidat til at producere visuelt tiltalende og interaktivt indhold, der fanger
+                brugerens opmærksomhed og styrker brands online. </p> <br>
+
+            <p>Dette er nogle af de mest attraktive job efter 2 års uddannelse, som multimediedesigner, men der er
+                masser af andre ting, som du kan som multimediedesigner.
+                Hvis du føler, at du hellere ikke er i mål med din uddannelse, og at du gerne vil have mere ekspertise
+                inden du kommer ud i den rigtige verden, så kan du også sagtens bygge oven på de 2 år og videreuddanne
+                dig. </p>
+
+            <a id="tekst1" href="index4.html">Læs mere: Tryk her</a>
+            <p>Eller vil du læse mere om hvordan det er at være Multimediedesigner i Aarhus,<a id="tekst1"
+                    href="index5.html"> Tryk her</a></p>
+        </article>
+        <img id="mønster" src="img/mønstre1.png" alt="Mønstre">
+        <img id="mønster2" src="img/mønster2.png" alt="Mønstre">
+    </main>
+
+    <footer class="footer">
+        <section>
+            <h4>YOUR FUTURE</h4>
+            <p class="footer_kontakt">
+                KONTAKT <br>
+
+                TELEFON 50 52 45 89 <br>
+                Nicolaj.nip@hotmail.com
+            </p>
+        </section>
+
+        <section class="footer_section">
+            <h4>FOLLOW US</h4>
+            <div class="billeder">
+                <a href="#"> <img src="img/twitter.png" alt="twitter-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/Instagram.png" alt="instagram-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/facebook.png" alt="facebook-icon" class="some_image"> </a>
+            </div>
+        </section>
+
+    </footer>
+</body>
+
+</html>
