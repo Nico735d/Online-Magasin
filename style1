@@ -1,0 +1,178 @@
+
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*   alt CSS til Headeren */
+
+.header {
+
+    color: #fff;
+    text-align: center;
+    background-image: url(img/YF.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 7rem;
+    margin-bottom: 8px;
+}
+
+/*   alt CSS til det som sker mellem header og Footer*/
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #00ccff;
+    border-style: solid;
+    border-color: #ff9c00;
+    border-width: 2px;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+.main {
+    height: 38rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column; 
+    
+}
+.pile{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 19%;
+position: absolute;
+
+
+
+
+
+}
+.round-box {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #00ccff;
+    margin: 35px; 
+}
+
+.big-box {
+    width: 200px; 
+    height: 200px; 
+    font-size: 24px;
+    line-height: 175px;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.round-box p {
+    text-align: center; 
+    margin: 10px; 
+    padding: 15px; 
+    line-height: 20px;
+    font-size: 18px; 
+    color: white; 
+}
+
+#tekst1 {
+    text-align: center; 
+     
+    margin-left: 10px;
+    padding: 13px;
+    line-height: 80px;
+    font-size: 19px; 
+    color: white; 
+
+/*   alt CSS til Footer*/
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-width: 5px;
+    padding-bottom: 20px;
+    border-color: black;
+    margin-top: 1px;
+    padding-top: 10px;
+    height: 7rem;
+    color: white;
+    background-color: #00ccff;
+    border-style: solid;
+    border-color: #ff9c00;
+    border-width: 3px;
+
+}
+
+.footer_kontakt {
+  margin-top: 1px;
+}
+
+.some_image {
+    width: 32px;
+    margin-right: 1px;
+    margin-top: 12px;
+}
+.billeder{
+display: flex;
+flex-direction: row;
+
+}
+
+.footer_section{
+    height: 9rem;
+    
+}
+/* Dropdown menu CSS */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style for menu items */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.dropdown-content a:hover {
+    background-color: #ff9c00;
+}
