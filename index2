@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/LOGO.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/LOGO.ico" type="image/x-icon">
+    <title>Your Future</title>
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body>
+    <header class="header">
+    </header>
+    <nav>
+        <section class="menu">
+            <div class="dropdown">
+                <a href="#">Job og Karriere</a>
+                <div class="dropdown-content">
+                    <a href="index5.html">Multimediedesigner i Aarhus</a>
+                    <a href="index3.html">Jobmuligheder</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Videregående uddannelser</a>
+                <div class="dropdown-content">
+                    <a href="index4.html">Læse videre som Multimediedesigner</a>
+
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Efteruddannelser</a>
+                <div class="dropdown-content">
+                    <a href="#">Kurser</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Vejledning</a>
+                <div class="dropdown-content">
+                    <a href="#">Praktik</a>
+                    <a href="#">Studievalg</a>
+                    <a href="#">Adgangskrav</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <a href="#">Kontakt</a>
+                <div class="dropdown-content">
+                    <a href="#">Om os</a>
+                </div>
+            </div>
+
+        </section>
+    </nav>
+    <main class="main">
+        <div class="round-box big-box">
+            <h1>Multimediedesign</h1>
+        </div>
+        <div class="row">
+            <div class="round-box">
+                <a href="index3.html">
+                    <p>Leder du efter job?</p>
+                </a>
+            </div>
+
+            <div class="round-box">
+                <a href="index4.html">
+                    <p>Vil du læse videre?</p>
+                </a>
+            </div>
+            <div class="round-box">
+                <a href="index5.html">
+                    <p id="tekst1">Aarhus</p>
+                </a>
+            </div>
+        </div>
+        
+            <img class="pile" src="img/pile3.png" alt="pile">
+    </main>
+
+    <footer class="footer">
+        <section>
+            <h4>YOUR FUTURE</h4>
+            <p class="footer_kontakt">
+                KONTAKT <br>
+
+                TELEFON 50 52 45 89 <br>
+                Nicolaj.nip@hotmail.com
+            </p>
+        </section>
+
+        <section class="footer_section">
+            <h4>FOLLOW US</h4>
+            <div class="billeder">
+                <a href="#"> <img src="img/twitter.png" alt="twitter-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/Instagram.png" alt="instagram-icon" class="some_image"> </a>
+                <a href="#"> <img src="img/facebook.png" alt="facebook-icon" class="some_image"> </a>
+            </div>
+        </section>
+
+    </footer>
+</body>
+
+</html>
